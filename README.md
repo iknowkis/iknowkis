@@ -18,7 +18,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-black?style=flat-square&logo=trello&logoColor=0052CC)
 ![StackOverflow](https://img.shields.io/badge/-StackOverflow-black?style=flat-square&logo=stackoverflow&logoColor=F58025)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iknowkis&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iknowkis.iknowkis)
 <!--
