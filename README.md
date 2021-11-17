@@ -10,7 +10,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat-square&logo=bootstrap&logoColor=563D7C)
 ![i18n](https://img.shields.io/badge/-i18n-white?style=flat-square&logo=Node.js&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-white?style=flat-square&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Node.js-white?style=flat-square&logo=Node.js)
 ![npm](https://img.shields.io/badge/-npm-white?style=flat-square&logo=npm)
 ![git](https://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
 
@@ -18,7 +18,8 @@
 ![Notion](https://img.shields.io/badge/-Notion-white?style=flat-square&logo=notion&logoColor=black)
 ![Slack](https://img.shields.io/badge/-Slack-white?style=flat-square&logo=slack&logoColor=4A154B)
 ![Trello](https://img.shields.io/badge/-Trello-white?style=flat-square&logo=trello&logoColor=0052CC)
-![StackOverflow](https://img.shields.io/badge/-StackOverflow-white?style=flat-square&logo=stackoverflow&logoColor=F58025)
+![VisualStudioCode](https://img.shields.io/badge/-Visual_Studio_Code-white?style=flat-square&logo=VisualStudioCode&logoColor=007ACC)
+![StackOverflow](https://img.shields.io/badge/-Stack_Overflow-white?style=flat-square&logo=stackoverflow&logoColor=F58025)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iknowkis&hide=TeX&layout=compact)
 
