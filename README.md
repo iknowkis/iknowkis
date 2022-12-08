@@ -19,8 +19,10 @@
  
  <br/><br/>
  
-  <a href="https://nowiknow.notion.site/6a650fcb7517407ca52781f60229f47d?v=400cc017088e482a83e60ebc84347af7"><img src="https://img.shields.io/badge/-portfolio-red?style=flat&link=https://nowiknow.notion.site/6a650fcb7517407ca52781f60229f47d?v=400cc017088e482a83e60ebc84347af7"/></a>
- 
+  <a href="https://iknow-dev.tistory.com"><img src="https://img.shields.io/badge/-Blog-red?style=flat&link=https://iknow-dev.tistory.com"/></a>
+<!--    
+  <a href="https://nowiknow.notion.site/6a650fcb7517407ca52781f60229f47d?v=400cc017088e482a83e60ebc84347af7"><img src="https://img.shields.io/badge/-Portfolio-red?style=flat&link=https://nowiknow.notion.site/6a650fcb7517407ca52781f60229f47d?v=400cc017088e482a83e60ebc84347af7"/></a>
+ -->
   <a href="https://stackblitz.com/@iknowkis"><img src="https://img.shields.io/badge/-StackBlitz-blue?style=flat&link=https://stackblitz.com/@iknowkis"/></a>
  
   <a href="https://solved.ac/iknowkis"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=iknowkis"/></a>
