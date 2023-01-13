@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iknowkis&theme=blue-green"/>
- 
+  <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iknowkis&theme=blue-green"/>
  
  <p align=center>
   <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
