@@ -10,14 +10,17 @@
   <code><img height="25" src="https://user-images.githubusercontent.com/61109660/112825135-5b9ef300-90c6-11eb-87a8-ebb4be6b30a3.png"></code>
  </p>
  <p align=center>
-  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></code>
+  <code><img height="25" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_social_media_social_media_logo_git_2993773.png"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/215970704-a17bfbde-e7ef-4377-b7d8-1f1ceead8d15.png"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/215968905-e76e8f55-914c-42f7-b2c6-aea30b24ea21.png"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/215970223-91491031-7b15-4fb9-a6ae-2dd45ed89ab1.png"></code>
+
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></code>
   <code><img height="25" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-256.png"></code>
   <code><img height="25" src="https://ionicframework.com/img/meta/logo.png"></code>
-  <code><img height="25" src="https://github.com/Taehyeon-Kim/Taehyeon-Kim/blob/master/icon/iconfinder_social_media_social_media_logo_git_2993773.png"></code>
-</p>
- 
- <br/><br/>
- 
+   
+ <br/>
+   
   <a href="https://iknow-dev.tistory.com"><img src="https://img.shields.io/badge/-Blog-red?style=flat&link=https://iknow-dev.tistory.com"/></a>
 <!--    
   <a href="https://nowiknow.notion.site/6a650fcb7517407ca52781f60229f47d?v=400cc017088e482a83e60ebc84347af7"><img src="https://img.shields.io/badge/-Portfolio-red?style=flat&link=https://nowiknow.notion.site/6a650fcb7517407ca52781f60229f47d?v=400cc017088e482a83e60ebc84347af7"/></a>
