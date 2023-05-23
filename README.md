@@ -2,20 +2,20 @@
 
 ### Who Am I
 - 📚 I’m currently learning 
-  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/215970704-a17bfbde-e7ef-4377-b7d8-1f1ceead8d15.png"></code>
-  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/233009578-9b9c4078-8802-46bf-91f4-3cf21de603f1.png"></code>
-  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/233013232-1143f047-675a-4fbd-bd4c-ad9dc1133e98.png"></code>
-  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/215968905-e76e8f55-914c-42f7-b2c6-aea30b24ea21.png"></code>
-  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/233009791-1fc1d3fd-fc72-4535-b230-c66942a4b857.png"></code>
-  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/233010629-9eeedcf0-0a3c-4a0e-82bf-47e1fbabbb72.png"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/215970704-a17bfbde-e7ef-4377-b7d8-1f1ceead8d15.png" title="스프링"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/233009578-9b9c4078-8802-46bf-91f4-3cf21de603f1.png" title="스프링부트"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/233013232-1143f047-675a-4fbd-bd4c-ad9dc1133e98.png" title="리눅스"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/215968905-e76e8f55-914c-42f7-b2c6-aea30b24ea21.png" title="도커"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/233009791-1fc1d3fd-fc72-4535-b230-c66942a4b857.png" title="쿠버네티스"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/87289383/233010629-9eeedcf0-0a3c-4a0e-82bf-47e1fbabbb72.png" title="AWS"></code>
 - 📘 My tech stacks 
-  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png"></code>
-  <code><img height="25" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-256.png"></code>
-  <code><img height="25" src="https://ionicframework.com/img/meta/logo.png"></code>
-  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
-  <code><img height="25" src="https://user-images.githubusercontent.com/61109660/112825263-838e5680-90c6-11eb-8333-a722dd51cdbf.png"></code>
-  <code><img height="25" src="https://user-images.githubusercontent.com/61109660/112825126-59d52f80-90c6-11eb-875d-a0cd23aabe25.png"></code>
-  <code><img height="25" src="https://user-images.githubusercontent.com/61109660/112825135-5b9ef300-90c6-11eb-87a8-ebb4be6b30a3.png"></code>
+  <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" title="Vue.js"></code>
+  <code><img height="25" src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-256.png" title="Angular"></code>
+  <code><img height="25" src="https://ionicframework.com/img/meta/logo.png" title="Ionic"></code>
+  <code><img height="25" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" title="Java"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/61109660/112825263-838e5680-90c6-11eb-8333-a722dd51cdbf.png" title="JavaScript"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/61109660/112825126-59d52f80-90c6-11eb-875d-a0cd23aabe25.png" title="HTML5"></code>
+  <code><img height="25" src="https://user-images.githubusercontent.com/61109660/112825135-5b9ef300-90c6-11eb-87a8-ebb4be6b30a3.png" title="CSS3"></code>
 - 🥇 I majored in Computer Engineering
 [![StackBlitz Badge](https://img.shields.io/badge/StackBlitz-1269D3?style=flat&logo=StackBlitz&logoColor=white)](https://stackblitz.com/@iknowkis)
 [![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=Notion&logoColor=white)](https://nowiknow.notion.site/6a650fcb7517407ca52781f60229f47d?v=400cc017088e482a83e60ebc84347af7)
@@ -33,8 +33,10 @@
 - 📐 Algorithm
 <a href="https://solved.ac/iknowkis"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=iknowkis"/></a>
 - 🧗 Climbing
+- 🥋 Jiu-Jitsu
 - 🎨 Illustrator
-[![DesignShop Badge](https://img.shields.io/badge/DesignShop-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://marpple.shop/kr/armton_b)
+[![DesignShop Badge](https://img.shields.io/badge/Tennis_Shop-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://marpple.shop/kr/armton_b)
+[![DesignShop Badge](https://img.shields.io/badge/Climbing_Shop-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://marpple.shop/kr/climbingtshirt)
 - ✍ Writing
 [![Blogger Badge](https://img.shields.io/badge/TechBlog-9c38d1?style=flat&logo=Blogger&logoColor=white)](https://iknow-dev.tistory.com/)
 - 📷 Photo
