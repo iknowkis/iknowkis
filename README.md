@@ -33,6 +33,7 @@
 - 📐 Algorithm
 <a href="https://solved.ac/iknowkis"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=iknowkis"/></a>
 - 🧗 Climbing
+[![Instagram Badge](https://img.shields.io/badge/Instagram-f42112?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/climbing_armton)
 - 🥋 Jiu-Jitsu
 - 🎨 Illustrator
 [![DesignShop Badge](https://img.shields.io/badge/Tennis_Shop-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)](https://marpple.shop/kr/armton_b)
